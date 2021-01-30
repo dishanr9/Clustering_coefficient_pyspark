@@ -40,7 +40,7 @@ TinyDataSet Graph: (List of edges)
 1 : 3 <br />
 2 : 3 <br />
 2 : 6 <br />
-3 :  <br />
+3 : 4 <br />
 3 : 6 <br />
 
 
